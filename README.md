@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://docs.easysec.es" target="_blank"><img src="https://raw.githubusercontent.com/EasySec-SMEs/.github/master/.github/assets/banner.svg"></a>
+  <a href="https://docs.easysec.es" target="_blank"><img src="https://raw.githubusercontent.com/EasySec-SMEs/.github/94abe7f0ffc531d4315bcebc1e58ddde8d40d5fd/assets/banner.svg"></a>
 </p>
 
 # EasySec - Easy security for SME's
